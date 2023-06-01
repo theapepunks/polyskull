@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE71ba1791B606c868D2AE1BE3a9f2C4831603FE3",
+  "SCAN_LINK": "https://polygonscan.com/token/0xe71ba1791b606c868d2ae1be3a9f2c4831603fe3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Skulls",
+  "SYMBOL": "PSK",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygonskullcollection",
+  "SHOW_BACKGROUND": true
+}
